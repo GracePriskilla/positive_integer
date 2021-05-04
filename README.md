@@ -1,2 +1,6 @@
 # positive_integer
-List=[11, -90, 23,0]
+list=[12, -3, 0,80]
+for i in range(list):
+    if(list[i]>0):
+      print(i, "is positive integer") 
+
